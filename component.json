@@ -6,10 +6,11 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "classnames": "2.x",
+        "classnames": "~2.2.0",
         "gregorian-calendar": "4.x",
         "gregorian-calendar-format": "4.x",
-        "rc-trigger": "1.x"
+        "rc-trigger": "1.x",
+        "rc-util": "2.x"
     },
-    "version": "1.0.0"
+    "version": "0.7.1"
 }
